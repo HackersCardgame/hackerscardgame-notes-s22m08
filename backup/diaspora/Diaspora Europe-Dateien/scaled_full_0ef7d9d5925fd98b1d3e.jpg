@@ -1,0 +1,48 @@
+<!doctype html>
+<html>
+<head>
+    <meta http-equiv="content-type" content="text/html; charset=utf-8">
+    <title>datataffel is gone</title>
+<style>
+    header
+    {
+        font-size: 4em;
+        text-align: center;
+    }
+    h2
+    {
+        font-size: 2em;
+        max-width: 40em;
+        margin: 1em auto .5em auto;
+    }
+    p
+    {
+        max-width: 80em;
+        margin: 1em auto;
+    }
+</style>
+</head>
+<body>
+    <header>
+        <h1>410 Gone</h1>
+        <p>datataffel is no more.</p>
+    </header>
+    <h2>I'm sorry</h2>
+    <p>The server datataffel was running from had both of its disks fail at the same time. I thought I had backups of everything important from the server. But i turns out that datataffel was the one thing I forgot to backup properly.</p>
+    <p>I am terribly sorry for the loss. I didn't have a ton of active users on the pod. But I know that I did have some, very loyal users. And I'm ashamed I haven't managed to responsibly take care of your data.</p>
+    <h2>Can't we just start over from scratch?</h2>
+    <p>Short answer: No.</p>
+    <p>For several reasons.</p>
+    <h2>Technically</h2>
+    <p>Diaspora is a decentralised network and that is part of the beauty of it. Let's say a user from another pod was following <code>someone@datataffel.dk</code>. What would then happen on the other pod when the server got back up and that user wasn't there anymore? And what would happen if the user suddenly showed up again? Is the network able to handle this in a sensible manner?</p>
+    <h2>Identity</h2>
+    <p>I cannot in any way guarantee or verify that the person registering <code>someone@datataffel.dk</code> tomorrow would be the same as the one who registered <code>someone@datataffel.dk</code> before the disks failed. This will at best lead to confusion. In the worst case, lean towards identity theft.</p>
+    <h2>Responsibility</h2>
+    <p>First and foremost: I clearly wasn't responsible enough and lost all your data. Apart from that, I haven't actively used datataffel in ages. The server was most of the time several versions behind the most recent release. If I <em>did</em> have the data still, this would be a good time to find someone else to take over the responsibility of hosting datataffel. But I don't.</p>
+    <p>And given the other problems mentioned above, <strong>datataffel is definitively dead now</strong>.</p>
+    <p>I will, however, happily help others getting started in hosting a new Danish Diaspora pod, in case anyone feel the need is there. With <a href="https://joindiaspora.com/posts/22282896">the recent news that JoinDiaspora</a> is (also) shutting down its operation, there might be a need for alternatives.</p>
+    <h2>See you</h2>
+    <p>Although I haven't used Diaspora for a long time, I'm still very interested in <a href="https://scuttlebutt.nz/">alternative social networks</a> and <a href="https://data.coop/">the decentralization of the internet</a> in general. I hope we'll meet again somewhere out there on the beautiful, wild interwebz &lt;3</p>
+    <p><em><br /><br />--<br /><br />decibyte</em></p>
+</body>
+</html>

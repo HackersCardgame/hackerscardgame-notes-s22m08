@@ -1,0 +1,60 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+    <head>
+        <title>Error 502</title>
+        <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+        <meta http-equiv="content-language" content="de" />
+        <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+        <style type="text/css">
+            body { background: #f5f5f5; margin: 0; padding: 0 }
+            .header { box-shadow: #ccc 0px 1px 21px; margin: 0 0 30px 0; padding: 40px; background: #fff; border-bottom: 1px solid #bebebe; }
+            .container { max-width: 800px; margin: 0 auto; text-align: left; }
+            .header .logo-link { float: right }
+            .header h1 { color: #5a5a5a; display: inline-block }
+            h1, h2, p, div { text-align: left; font-family: "Helvetica Neue", Helvetica, Arial, sans-serif; }
+            a { color: #8B2323; }
+            h1, h2 { color: #747474; }
+            p { color: #778899; }
+            hr { border: 0; border-top: 1px solid #eee; border-bottom: 1px solid #fff; }
+            .request-id { font-size: 80%; margin-top: 60px; text-align: center; }
+            div p { color: #000000; }
+            span { color: #000000; background: #ffff00; }
+            .content { padding: 0 20px; }
+
+            @media (max-width:767px) {
+                .header { padding: 20px; }
+                .header img { width: 146px; height: 38px; padding-top: 20px; }
+            }
+        </style>
+    </head>
+    <body>
+<div class="header">
+<div class="container">
+<h1>Error 502</h1>
+<a href="https://www.lima-city.de/?utm_source=lima&amp;utm_medium=web&amp;utm_content=logo&amp;utm_campaign=error-502" target="_blank" class="logo-link">
+<img src="//storage.googleapis.com/lima-city/cdn-like/community_logo4.png" height="65"
+  width="251" alt="Hosted by lima-city" border="0">
+</a>
+</div>
+</div>
+<div class="container content">
+<script type="text/javascript">document.title=document.location.host+" - Error 502";</script>
+        <h1>Bad Gateway</h1>
+        <p>Der Server hat eine ungültige Antwort von dem Webserver erhalten, der die Anfrage bearbeitet.</p>
+        <p>Versuche es bitte in einigen Augenblicken erneut.</p>
+        <p>Aktuelle Informationen zu unserem Server-Status findest Du unter <a href="http://lima-status.de/">lima-status.de</a> und auf Twitter <a href="https://twitter.com/lima_status">@lima_status</a>.</p>
+        <p>Tritt das Problem ungewöhnlich häufig auf wende Dich bitte unter Angabe der "Request ID" am Seitenende an support@<span style="display:none;">nomail-to</span>lima-city.de.</p>
+<hr/>
+        <h1>Bad Gateway</h1>
+        <p>The server, while acting as a gateway or proxy, received an invalid
+   response from the upstream server it accessed in attempting to
+   fulfill the request.</p>
+        <p>Please try it again in a few moments.</p>
+        <p>You can find current status information about our infrastructure at <a href="http://lima-status.de/">lima-status.de</a> and on Twitter: <a href="https://twitter.com/lima_status">@lima_status</a>.</p>
+        <p>If the problem occurs multiple times please contact support@<span style="display:none;">nomail-to</span>lima-city.de with details about your action and the Request ID stated below.</p>
+<hr/>
+        <p class="request-id">Request ID: atG2QuyHHpQaes98Lp</p>
+</div>
+    </body>
+</html>
