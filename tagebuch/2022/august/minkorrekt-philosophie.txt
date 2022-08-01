@@ -1,15 +1,45 @@
+Halli Hallo und guten Morgen
 
-Für A. -- danke für den Tip, das Buch ist ja ganz toll
-
-Zitat Buch: zuweilen sei es "für manche besser (...) tod zu sein als zu leben" -- ich: aber ist es auch besser für sein/ihr Umfeld wenn er/sie aufhören würde zu leben.
--> und ich dann diesen tollen Buch-Tip nicht bekommen hätte von Dir? Und ich könnte dieses tolle Buch nicht weiter Empfehlen. bourdieu app zb in telegram machen als addon, dann würde aber vermutlich telegram vom "Management Cockpit" der wirtschaft zerschossen, also muss es ein interface haben dass man das dann auch z.B. über signal oder whatsapp machen könnte
-
-
+Das Buch ...
 Sokrates Jesus Buddha
+von Frédéric Lenoir
 
-Meinung @fredericlenoir2 hat das mit der Quellensuche ordentlich gemacht, und das Buch kann man vermutlich gut für "Comparative Religion Sciences" verwende, ist ja auch irgendwie gescheiter zu schauen "wie sieht das eigentlich bei Euch aus" als sich in Kreuzzügen die Köpfe einzuschlagen.
+ISBN: 978-3-492-95421-1
 
-Dabei stell ich mir die Frage: sind Hacker oder Podcaster nicht auch Menschen wie Philosophen oder religiöse Menschen, die versuchen sich einem "Inhaltlichen Hack" in die Gesellschaft hacken um Dinge zu verbessern ohne auf Strukturen von grossen und mächtigen Kaisern oder Konzernen zurück greifen zu können. Beide werden zwischendurch mal angegriffen, ich sehe da Parallelen zwischen Julian Assange und Jesus, auch wenn es kitschig wirken würde Julian am Kreuz abzubilden.
+... ist einfach nur genial. Wenn man das als eBook kauft und sich mit Calibre eBook Reader vorlesen lassen möchte geht das aber nicht, weil es da im Buch Excape-Sequenzen (Informatik) hat, deshalb hier eine korrigierte TXT Datei die man sich mit Calibre eBook Reader vorlesen lassen kann. Das eBook selber kostet nur 10€, also auch etwas für kleines Budget.
+
+Meine Meinung:
+@fredericlenoir2 hat das mit der Quellensuche ordentlich gemacht, und das Buch kann man vermutlich gut für "#Comparative #Religion #Sciences" verwende, ist ja auch irgendwie gescheiter zu schauen "wie sieht das eigentlich bei Eurer Religion aus" als sich gegenseitig in Kreuzzügen die Köpfe einzuschlagen.
+
+Philosophie Hacker Jeopardy:
+
+* Was hat dieses Buch mit dem Film Sakrileg (The Da Vinci Code) zu tun?
+
+* weshalb wollen Kinder oft das Spielzeug haben was grad das andere Kind hat?
+
+* ist Religion und Philosophie eine Schnittmenge?
+
+* Buddha = der Erwachte -> "woke" zu sein ist ja total in, aber das Wort "woke" kann man auch wieder verschieden auslegen. Hat #QAnon ihre eigene Variante von "woke" erschaffen?
+
+* Buddha warnt vor Personen-Kulten, Q ist eine Person.
+
+* Ist die #QAnon Geschichte #PizzaGate und Eliten die #Kinder #rituell "#essen" nicht für die jungen Menschen einfach der "Nearst Match" weil eigentlich die meisten Eltern der 1980er Kinder uns alle der Wirtschaft und dem Kapitalismus geopfert haben um ihre Pensionen zu sichern?
+
+* weshalb mag der Kapitalismus keine Moral-Apostel?
+
+* ist der Messias, der Befreier nicht derjenige, der dann Menschen wie Cypher (Film Matrtix) produziert die sogar morden um zurück in die Matrix zu kommen, um ihre Unwissenheit wieder zu erlangen?
+
+
+
+
+Dabei stell ich mir die Frage:
+sind #Hacker oder #Podcaster nicht auch Menschen religiöse Menschen oder Menschen wie Philosophen, die versuchen sich mit einem "Inhaltlichen Hack" in die #Gesellschaft #hacken um Dinge zu verbessern ohne auf Strukturen von grossen und mächtigen Kaisern oder Konzernen zurück greifen zu können. Beide werden zwischendurch mal angegriffen, ich sehe da Parallelen zwischen Julian Assange und Jesus, auch wenn es kitschig wirken würde Julian am Kreuz abzubilden.
+
+
+Meine Notizen zum Buch: https://github.com/HackersCardgame/hackerscardgame-notes-s22m08/blob/main/tagebuch/2022/august/minkorrekt-philosophie.txt
+
+
+
 
 += Relevante Information
 
@@ -57,7 +87,7 @@ Dabei stell ich mir die Frage: sind Hacker oder Podcaster nicht auch Menschen wi
 
 * ist der Messias und Befreier nicht der, der dann wieder Cyphers Produziert die zurück in die Matrix, in die Unwissenheit möchten
 
-* sind religionen auch einer dialektik unterwofen
+* sind religionen auch einer Dialektik (Hegel) unterwofen
 1. werden aus vorhergehenden weiter entwickelt
 2. negieren sich selber mit der zeit zu einem sauhaufen der dann wie die christliche kirche anfängt kinder zu schänden und zu vergewaltigen, so dass eine neue Religion her muss?
 -> sagt platon in protagoras nicht schon "Dass Söhne von guten Vätern schlecht werden und Söhne von schlechten Vätern gut?"
@@ -76,7 +106,6 @@ ev. cc hoaxilla
 
 
  ehr das wäre dann Mindcontrol, Massen
-
 
 
 

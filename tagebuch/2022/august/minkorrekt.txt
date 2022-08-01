@@ -1,13 +1,18 @@
+Halli Hallo und guten Morgen alle
 
-Für A. -- danke für den Tip, das Buch ist ja ganz toll
-
-Zitat Buch: zuweilen sei es "für manche besser (...) tod zu sein als zu leben" -- ich: aber ist es auch besser für sein/ihr Umfeld wenn er/sie aufhören würde zu leben.
--> und ich dann diesen tollen Buch-Tip nicht bekommen hätte von Dir? Und ich könnte dieses tolle Buch nicht weiter Empfehlen. bourdieu app zb in telegram machen als addon, dann würde aber vermutlich telegram vom "Management Cockpit" der wirtschaft zerschossen, also muss es ein interface haben dass man das dann auch z.B. über signal oder whatsapp machen könnte
-
-
+Das Buch ...
 Sokrates Jesus Buddha
+von Frédéric Lenoir
 
-Meinung @fredericlenoir2 hat das mit der Quellensuche ordentlich gemacht, und das Buch kann man vermutlich gut für "Comparative Religion Sciences" verwende, ist ja auch irgendwie gescheiter zu schauen "wie sieht das eigentlich bei Euch aus" als sich in Kreuzzügen die Köpfe einzuschlagen.
+ISBN: 978-3-492-95421-1
+
+... ist einfach nur genial. Wenn man das als eBook kauft und sich mit Calibre eBook Reader vorlesen lassen möchte geht das aber nicht, weil es da im Buch Excape-Sequenzen (Informatik) hat, deshalb hier eine korrigierte TXT Datei die man sich mit Calibre eBook Reader vorlesen lassen kann. Das eBook selber kostet nur 10€, also auch etwas für kleines Budget.
+
+Meine Meinung:
+@fredericlenoir2 hat das mit der Quellensuche ordentlich gemacht, und das Buch kann man vermutlich gut für "#Comparative #Religion #Sciences" verwende, ist ja auch irgendwie gescheiter zu schauen "wie sieht das eigentlich bei Eurer Religion aus" als sich gegenseitig in Kreuzzügen die Köpfe einzuschlagen.
+
+Meine Notizen zum Buch: https://github.com/HackersCardgame/hackerscardgame-notes-s22m08/blob/main/tagebuch/2022/august/minkorrekt-philosophie.txt
+
 
 Dabei stell ich mir die Frage: sind Hacker oder Podcaster nicht auch Menschen wie Philosophen oder religiöse Menschen, die versuchen sich einem "Inhaltlichen Hack" in die Gesellschaft hacken um Dinge zu verbessern ohne auf Strukturen von grossen und mächtigen Kaisern oder Konzernen zurück greifen zu können. Beide werden zwischendurch mal angegriffen, ich sehe da Parallelen zwischen Julian Assange und Jesus, auch wenn es kitschig wirken würde Julian am Kreuz abzubilden.
 
