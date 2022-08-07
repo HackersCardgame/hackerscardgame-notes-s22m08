@@ -1,0 +1,169 @@
+Return-Path: <mail@marclandolt.ch>
+Delivered-To: marc.landolt@0x8.ch
+Received: from mail-lb1.adm.hostpoint.ch ([10.4.2.218])
+	by popimap006.mail.hostpoint.ch with LMTP
+	id aCYPIZkY72K8cgEAlZmdGA
+	(envelope-from <mail@marclandolt.ch>)
+	for <marc.landolt@0x8.ch>; Sun, 07 Aug 2022 03:42:49 +0200
+Received: from mxin018.mail.hostpoint.ch ([10.4.2.218])
+	by mail-lb1.adm.hostpoint.ch with LMTP
+	id GIL0IJkY72LJAAEA9BAvQA
+	(envelope-from <mail@marclandolt.ch>)
+	for <marc.landolt@0x8.ch>; Sun, 07 Aug 2022 03:42:49 +0200
+Received: from mailnull by mxin018.mail.hostpoint.ch with local_accounts_spamscanned (Exim 4.95 (FreeBSD))
+	(envelope-from <mail@marclandolt.ch>)
+	id 1oKVJX-0004tl-IC
+	for marc.landolt@0x8.ch;
+	Sun, 07 Aug 2022 03:42:49 +0200
+X-Spam-Checker-Version: SpamAssassin 3.4.5 (2021-03-20) on
+	mxin018.mail.hostpoint.ch
+X-Spam-Level: 
+X-Spam-Status: No, score=-5.6 required=4.0 tests=BAYES_00,HP_VS_LEGIT,
+	NICE_REPLY_A,RCVD_IN_DNSWL_LOW,RCVD_IN_HPWL_LOW,SPF_HELO_NONE,SPF_PASS,
+	T_SCC_BODY_TEXT_LINE autolearn=no autolearn_force=no version=3.4.5
+Received: from mxout012.mail.hostpoint.ch ([217.26.49.172])
+	by mxin018.mail.hostpoint.ch with esmtps  (TLS1.3) tls TLS_AES_256_GCM_SHA384
+	(Exim 4.95 (FreeBSD))
+	(envelope-from <mail@marclandolt.ch>)
+	id 1oKVJX-0004tg-GI
+	for marc.landolt@0x8.ch;
+	Sun, 07 Aug 2022 03:42:47 +0200
+Received: from [10.0.2.44] (helo=asmtp014.mail.hostpoint.ch)
+	by mxout012.mail.hostpoint.ch with esmtps  (TLS1.3) tls TLS_AES_256_GCM_SHA384
+	(Exim 4.95 (FreeBSD))
+	(envelope-from <mail@marclandolt.ch>)
+	id 1oKVJW-000A7f-J6;
+	Sun, 07 Aug 2022 03:42:46 +0200
+Received: from 46-126-16-87.dynamic.hispeed.ch ([46.126.16.87] helo=[192.168.1.11])
+	by asmtp014.mail.hostpoint.ch with esmtpsa  (TLS1.3) tls TLS_AES_256_GCM_SHA384
+	(Exim 4.95 (FreeBSD))
+	(envelope-from <mail@marclandolt.ch>)
+	id 1oKVJW-000Ds9-Br;
+	Sun, 07 Aug 2022 03:42:46 +0200
+X-Authenticated-Sender-Id: mail@marclandolt.ch
+Message-ID: <e61d88f5-9168-b394-8107-53c3dc06710d@marclandolt.ch>
+Date: Sun, 7 Aug 2022 03:42:42 +0200
+MIME-Version: 1.0
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:91.0) Gecko/20100101
+ Thunderbird/91.12.0
+Subject: =?UTF-8?Q?Re=3a_Freundlichen_=c3=96ffentlichkeitsarbeit_=3a_Was_hat?=
+ =?UTF-8?Q?_der_Eichmann-Prozess_mit_dem_Psychiatriewesen_zu_tun?=
+From: "Marc jr. Landolt" <mail@marclandolt.ch>
+To: marc.landolt@0x8.ch, Bauhofer Elisabeth GKAOG <Elisabeth.Bauhofer@ag.ch>,
+ Jordi Beatrice GKAOG <Beatrice.Jordi@ag.ch>,
+ Schleusener Samer <Samer.Schleusener@pdag.ch>, marc.walter@pdag.ch,
+ lukas.cotti@ag.ch, lenke.galambos@pdag.ch, EPD.Aarau@pdag.ch,
+ Leitung ZPPA <leitung.zppa@pdag.ch>,
+ Spring Marco DVISTABAD <marco.spring@ag.ch>, Katrin.Hanno@pdag.ch,
+ reto.leiser@ag.ch
+References: <efcfd46c-dd04-b83b-84fa-357dd97f5b3d@marclandolt.ch>
+ <70e01ff9-dc28-7496-3aba-073a2a4393cf@marclandolt.ch>
+ <d2ce29d0-f3c5-ed69-4442-14cffca3244d@marclandolt.ch>
+ <142a7a12-9dd6-c16f-2f7c-385b70990527@marclandolt.ch>
+ <5d0315db-7577-2ab5-b558-1ca0c4852427@marclandolt.ch>
+Disposition-Notification-To: "Marc jr. Landolt" <mail@marclandolt.ch>
+In-Reply-To: <5d0315db-7577-2ab5-b558-1ca0c4852427@marclandolt.ch>
+Content-Type: text/plain; charset=UTF-8; format=flowed
+Content-Transfer-Encoding: 8bit
+X-Whitelisted-By: dnswl.hostpoint.dnslist
+X-Vs-State: LEGIT
+X-Hostpoint-Spambox:  YES 
+
+Sehr geehrte Frau Tillner
+
+ich bittes sie höflichst darum für Montag eine 25mg statt einer 50mg 
+Risperdal Consta Spritze zu bestellen. So weit werden 25mg Risperdal 
+Consta Spritzen auch im ehemaligen P4 in der internen Apotheke der 
+Psychiatrie Königsfelden gelagert.
+
+Meiner subjektiven Empfingdung enthält die 50mg Spritze einen anderen 
+Wirkstoff bzw. zusätzlich zum Risperdal welches das Dopamin reduziert 
+eine weitere Substanz welche sich im Fettgewege ablagert und beim 
+abnehmen bzw. beim Abbauen des Fettgewebes abwechselnd Depressionen und 
+Aggressionsschübe auslöst.
+
+Liege ich mit dieser meiner subjektiven Einschätzung richtig wäre 
+ausserdem abzuklären ob der Afrikaner, der von Schweizer Psychiatrien 
+behandelt wurde, auch Risperal bekommen hat.
+
+Der Afrikaner hat in Frankfurter (DE) Bahnhof einen Jungen (†8) 
+ermordet, ihn und seine Mutter vor einen Zug gestossen. Zusätzlich 
+sollte man überprüfen, ob der Afrikaner vor der Tat kein Geld mehr hatte 
+um sich Essen kaufen.
+
+Ist dem so, wäre Risperdal Consta 50mg so etwas wie ein Zeitzünder der 
+aktiviert würde wenn man ca. 5 Tage Null-Diät macht.
+
+Für meinen Fall ist es nicht schlüssig weshalb das Gericht im 
+Zwangsmassnahmen-Entscheid 50mg rein schreibt wenn ich 7 Jahre mit 25mg 
+stabil war. Ausserdem hat auch Dr. Schleusener der die 50mg entschieden 
+hat gesagt man könne nach den 50mg reduzieren auf 25mg.
+
+Mit freundlichen Grüssen
+
+Marc jr. Landolt
+eidg. dipl. Informatiker HF
+Neuenburgerstrasse 6
+5004 Aarau
+
+PS: sollten Sie vor Gericht aussagen zur subjektiven Wirkung von 
+Risperdal macht dürfen Sie gerne auf mich zukommen.
+
+
+
+Am 19.07.2022 um 00:02 schrieb Marc jr. Landolt:
+> Guten Tag
+> 
+> @ BCC: rein Informativ
+> 
+> 
+> gemäss dem Chef der Psychiatrie Königsfelden (Marc Walter) verkürzen die 
+> Psychopharmaka das Leben eines Patienten um 20-30 Jahre, bzw. findet man 
+> diese Angaben auch Anderswo.
+> 
+> Irgend jemand (in diesem Fall Dr. Schleusener) entschied mal mir 50mg 
+> Risperdal zu verordnen obwohl ich Jahre lang einigermassen stabil war 
+> mit 25mg. Die höhere Dosis verursacht gesundheitliche Probleme und führt 
+> auch dazu dass ich sinnlos viel Essen in mich hinein stopfe. Hat man 
+> Medikamente kann man sich noch so anstrengen, man nimmt nicht ab. All 
+> die dicken Psychiatrie Patienten landen dann wegen Ihnen allenfalls in 
+> der Endokrinologie oder in der Pathologie.
+> 
+> Sobald jetzt einmal ein Psychiater die 50mg entschieden -- und hier 
+> kommt Eichmann ins Spiel (Attachement) -- hat tendieren alle Anderen 
+> dazu "ihre Hände in Unschuld zu waschen", verhalten sich störrisch, 
+> ignorant, unwissenschaftlich und nicht human gegenüber dem Patienten 
+> weil "ein Anderer hat es ja entschieden" und erlauben keine Korrektur 
+> der Dosis.
+> 
+> Das finnische Konzept Open Dialog beweist, dass man 85% der 
+> Schizohprenie Patienten ohne Medikamente stabil halten kann. Open Dialog 
+> wird mittlerweile auch an der FH Bern unterrichtet, also kann man ja 
+> davon ausgehen, dass sich die Leute schon bewusst sind, dass sie mit 
+> Medikamenten Patienten auf dem Gewissen haben.
+> 
+> Sie sollten wirklich alle mal "Furcht vor der Freiheit" von Erich Fromm 
+> lesen, denn das Konzept was Fromm vorstellt betrifft auch Staat und 
+> Psychiatrie.
+> 
+> Entschieden hat das rechtlich schlussendlich der Leiser, wo gemäss Marc 
+> Walter das Gericht nicht mal sagen drüfte welches Medikament und in 
+> welcher Dosis, keine Rechtsmittelbelehrung, kein Hinweis wo ich mich 
+> melden kann um mich gegen den falschen Entscheid wehren kann, kein 
+> Hinweis wo ich ohne Geld einen Anwalt her bekomme der mich verteten 
+> würde. Es wurden einfach sämtliche Mails von Hr. Richter Leiser 
+> ignoriert. Viele Menschen behandeln ihre Haustiere besser als 
+> Psychiatrie-Patienten und das prangere ich an.
+> 
+> 
+> 
+
+-- 
+Mit freundlichen Grüssen
+
+Marc jr. Landolt
+eidg. dipl. Informatiker HF
+Neuenburgerstrasse 6
+5004 Aarau
+062 822 61 31
+078 674 15 32
