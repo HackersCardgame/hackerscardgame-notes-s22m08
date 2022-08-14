@@ -32,4 +32,6 @@ gesteuert von 1 oder mehreren management cockpits
 software die die projektionsmatrix macht
 software die die inhalte managed (z.B. etwas wie Fairlight Davinci mit multiuser funktion)
 
+fairlight davinci steht vermutlich auch nicth unbedingt bei den behörden rum, sondern bei irgendwelchen super reichen voll mongoloiden
+
 
