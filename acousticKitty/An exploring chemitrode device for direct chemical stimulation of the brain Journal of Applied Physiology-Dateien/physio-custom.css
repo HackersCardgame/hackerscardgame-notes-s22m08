@@ -1,0 +1,509 @@
+/* temp fix for PHYSIO-850 */
+.shibboleth ul {
+    z-index: 20!important;
+}
+
+
+/* temp fix for PHYSIO-841 */
+
+@media (max-width: 768px) {
+.apsselect .current-issue  {
+    padding: 20px 15px 10px !important;
+  }
+
+  .apsselect .featured__wrapper .featured__container:first-child {
+  margin-top: 25px !important;
+  }
+  .apsselect .publication-menu--res, .apsselect .publication_header {
+    background: #1f1f1f !important;
+  }
+}
+
+
+/**/
+
+/* temp fix for PHYSIO-824 - delete after 2/18/20 */
+
+.article__body .ack a {
+  color: #5e8ab4!important;
+}
+
+
+/*search results*/
+.pagination__list a.active{
+    background: #48a9c5;
+    color: white;
+}  
+
+.pagination__list a:hover {
+    text-decoration: none;
+    background: #eee;
+    color: #48a9c5;
+}
+.search-result__meta__top i.icon-section_arrow_d {
+    color:#48a9c5;
+} 
+
+.facet__ctrl i {
+    color: #48a9c5
+}  
+
+.search__follow__item i {
+    color: #48a9c5
+}
+
+.advanced-search__ctrl {
+    color: #48a9c5;
+}
+.advanced-search__region .tab__nav li.active a{
+    color: #48a9c5;
+    border-color: #48a9c5;
+}
+
+.facet__label, .facet .show-more {
+    color: #48a9c5
+}
+
+.search__filters .facets__title--main {
+    background: #48a9c5;
+}
+
+/*custom apsselect page social media header*/
+.apsselect .publication-box h2 {
+    background: #48a9c5;
+}
+
+.home-menu .main-nav {
+    background-color: #48a9c5;
+}
+
+.quick-search .dropBlock a {
+    background: #48a9c5;
+    border-color: #48a9c5;
+}
+
+.home-menu .dropdown__menu {
+    background: #48a9c5;
+}
+
+.home-menu .dropdown.hover, .home-menu .dropdown:hover {
+    background: #337a8f;
+}
+
+.home-menu .dropdown__menu a:hover {
+    background: #337a8f;
+}
+
+.header .sign-in-label {
+    background: #48a9c5;
+}
+
+.Calls-for-papers {
+    background-color: #48a9c5;
+  }
+
+.aps-select {
+    background: #48a9c5;
+  }
+
+  .aps-select .featured__container:first-child {
+    background-color: #48a9c5;
+  }
+
+  .apsselect .loi-buttons .btn {
+    background: #48a9c5;
+}
+
+.apsselect .editor-in-chief .editor-info {
+    background: #48a9c5;
+}
+
+.apsselect .collections-list a:hover {
+    background: #48a9c5;
+}
+
+.sign-up-alerts-container.dark .sign-up-btn {
+background-color: #48a9c5;
+}
+
+
+/* temp fix until the rest of the tool bar is the same font size*/
+article .coolBar__second .article-tools__ctrl, article .coolBar__second .share__ctrl {
+    font-size: .875rem !important;   
+}
+
+/*  slider overflow fix */
+.left-side-image.slideshow-wrapper.cloned {
+    padding-top: 54px;
+ }
+
+.left-side-image.slideshow-wrapper.hidden-xs.hidden-sm {
+    padding-top: 50px;
+}
+
+/*article level logo size*/
+.article-logo {
+max-width: 80%;
+
+}
+
+.logo-container {
+    height: 50%;
+    max-width: 50%;
+    margin-top: 30px;
+}
+/* Temp fix for table layout https://jira.atypon.com/browse/PHYSIO-713 */
+.article-table-content .tableFooter {
+    margin: 0px;
+    background: white;
+    padding-left: 5px;
+}
+
+/* styling dimensions tab PHYSIO-705*/
+.__dimensions_badge_embed__ .__dimensions_Badge_Legend_padding.__dimensions_Badge_Legend_always {
+  background: transparent !important;
+  padding-bottom: 10px !important;
+}
+
+/* https://jira.atypon.com/browse/PHYSIO-696*/
+main.content.pageBody {
+    padding-top: 0;
+}
+
+/* LIT-231301 -- uncapitalize S in decade list on LOI */
+
+.loi__banner ul.loi__list {
+	text-transform: lowercase;
+}
+
+/* Jan 23 release bug with search result alignment  */
+
+.search__result .result__suffix {
+  vertical-align: bottom;
+}
+
+/* Jan 23 bug with APSselect display: hide DOI since the link is incorrect */
+/*
+
+.apsselect .table-of-content .epub-section__item {
+  display: none;
+}
+*/
+
+/* PHYSIO-391: Fix bug where wrapping is off (caused by display: table) */
+
+.top-list__container {
+  display: flex;
+}
+
+/* PHYSIO-332 -- add supplemental article link in article-meta-revised.pug */
+
+.suppl-info-link {
+  font-size: 1.15rem;
+  font-weight: 700;
+  padding-bottom: 1rem;
+  margin-bottom: 1rem;
+  width: 100%;
+  color: #5e8ab4;
+}
+
+/* PHYSIO-331 -- article downloads block */
+
+.article-downloads {
+    background-color: #e82562;
+    color: white;
+    padding: .5rem;
+    font-weight: 700;
+    margin-bottom: 10px;
+}
+
+/* Workarounds for Jan 9 MR release bugs */
+
+/* PHYSIO-387: Add additional padding for altmetrics container */
+#pane-pcw-details #doi_altmetric_drawer_area {
+  padding-bottom: 1rem;
+}
+
+/* LIT-199203 -- remove after Feb 6 release */
+
+.coolBar i {
+    margin-right: 6px;
+}
+
+
+
+/* Hide parts of the institutional agreement on the institution activation context that don't apply to Physio */
+
+.profile-pages .activateInst p:nth-of-type(4),
+.profile-pages .activateInst p:nth-of-type(5), 
+.profile-pages .activateInst h2 {
+   display: none;
+}
+
+
+/* Fix weird wrapping with altmetrics on home page most- sections */
+.home-page .top-list__container {
+   display: block;
+}
+
+/* Fix title size for Google */
+
+@media only screen and (max-height: 900px) {
+   .article__content .citation__title {
+      font-size: 18px;
+   }
+}
+
+/* Fix home page top block Read More links (for now) */
+.featured__journal-name a.read-more-link {
+  text-decoration: underline;
+  padding-left: 10px;
+}
+
+/* LIT-194277: Fix width of cover image on left-hand side of top widget on global home page */
+
+.featured-articles-card .tab__content .featured__container:first-child img {
+    width: auto;
+}
+
+/* PHYSIO-292: Suppress cover images on right-hand side of publication list display */
+.journal-home .featured-articles-card .tab__content .featured__container:not(:first-child) img {
+    display: none;
+}
+
+/* TODO: FILE BUG cover expansion enlargement */
+
+.modal .cover-image__image img {
+    max-height: initial;
+}
+
+
+/* Attempt to fix the header spacing */
+header.fixed.base.header-demo.pageHeader {
+    height: 145 px;
+}
+
+/* Fix logo sizing */
+
+.aps-logo img {
+  height: 68px;
+}
+
+/* Item 2.10, 4.12 -- make h3's in articles italic */
+
+h3.article-section__title {
+   font-style: italic;
+}
+
+h5.article-section__title {
+   font-variant: small-caps;
+}
+
+/* Item 2.13 -- table text is too large */
+div.article-table-content { 
+   font-size: 12px;
+   display: block; /* Temp fix for LIT-472396 */
+}
+
+/* Item 2.31 -- table header text too light */
+div.article-table-content th { 
+   color: #000;
+}
+
+/* Item 2.33 -- Reference titles should be italicized */
+
+.references__source {
+   font-weight: bolder;
+   font-style: italic;
+}
+
+/* Footer -- logo not lining up */
+
+.footer-bottom img {
+    vertical-align: middle;
+}
+
+
+/* PHYSIO-205, LIT-198492: Show person's name on logon. Remove after 2/6 release */
+.loginBar .icon-userprofile {
+  display: none;
+}
+
+.loginBar .profile-text {
+  display: inline-block;
+  white-space: nowrap;
+  width: 70px;
+  overflow: hidden;
+  vertical-align: middle;
+  text-overflow: ellipsis;
+}
+
+
+/* Stay connected banner on global home page */
+
+.stay-connected-container .stay-connected {
+    background: url(../images/sign-up.png);
+    text-align: center;
+    padding: 15px 0;
+    background-repeat: no-repeat;
+}
+
+/* Fix footer alignment of logo and terms & conditions */
+
+.footer-bottom a img {
+    display: inherit;
+}
+
+/* Style home-page resources */
+
+div.home-page-resources {
+    background-color: white;
+    margin-left: -15px;
+    margin-right: -15px;
+}
+
+ 
+
+/* Details tab for article -- change headings to bold */
+
+section.meta-data span.title {
+    font-weight: bolder;
+}
+
+.section__body .section__title {
+    font-weight: bold;
+}
+
+
+/* Fixes to LOI, 9/19 */
+
+.loi__issue .coverDate {
+    padding-left: 0px;
+}
+
+/* Fixes to main header. Journals menu is too bold, fix that */
+
+.main-nav a {
+    font-weight: 600;
+}
+
+/* LIT-171412: Fixes to reference links for spacing and color */
+
+a.references__item {
+    color: #5e8ab4;
+    font-weight: 600;
+    margin-left: 5px;
+}
+
+/* Fix logout colors */
+
+div.navigation-login-dropdown {
+    color: darkgray;
+    z-index: 10000;
+}
+
+
+.img.logo-container {
+    margin-top: 45px;
+}
+
+/* Error page */
+
+.primary-link-color {
+    color: blue;
+}
+
+/* Align text in login pop-up */
+
+.ssoLink {
+    text-align: center;
+}
+
+/* 2.15: Put space below equations */
+
+div.math-formula {
+    -webkit-margin-after: 15px;
+}
+
+/* LIT-183990: Related articles font weight */
+
+div.related div.meta {
+   font-weight: 700;
+}
+
+
+/* at the bottom of the page, next/prev widget middle text isn't centered */
+
+.content-navigation__extra {
+    text-align: center;
+}
+
+/*
+ * PHYSIO-218 -- change None in References tab for ajplegacy when no content to "See PDF"
+ */
+
+.NoContentMessage {
+    visibility: hidden;
+}
+
+.ajplegacy #pane-pcw-references .NoContentMessage:after {
+    content: "See PDF";
+    visibility: visible;
+    display: block;
+}
+
+main:not(.ajplegacy) #pane-pcw-references .NoContentMessage:after {
+    content: "There are no references in this article.";
+    visibility: visible;
+    display: block;
+
+main:not(.ajplegacy) #pane-pcw-figures .NoContentMessage:after {
+    content: "There are no figures in this article.";
+    visibility: visible;
+    display: block;
+}
+
+div.NobelCollection {
+  background: url(/pb-assets/images/custom-pages/Nobel/NOBELprize.png);
+}
+
+
+
+
+
+div.Librarian {
+    border-collapse: collapse;
+    width: 100%;
+}
+
+#librarian td, #customers th {
+  border: 1px solid #ddd;
+  padding: 8px;
+}
+
+#librarian tr:nth-child(even){background-color: #f2f2f2;}
+
+#librarian tr:hover {background-color: #ddd;}
+
+#librarian th {
+  padding-top: 12px;
+  padding-bottom: 12px;
+  text-align: left;
+  background-color: #e0056d;
+  color: white;
+}
+
+
+
+
+
+
+boxshadow {
+  padding: 15px;
+  background-color: white;
+  box-shadow: 10px 10px 5px grey;
+}
+
+
+
+/* at the bottom of the page, next/prev widget middle text isn't centered */
