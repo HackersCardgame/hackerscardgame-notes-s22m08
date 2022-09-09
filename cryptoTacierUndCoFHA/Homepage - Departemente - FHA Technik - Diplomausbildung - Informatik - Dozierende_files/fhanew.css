@@ -1,0 +1,107 @@
+body { margin:0;}
+
+/* Edit WYSIWYG */
+p.untertitel { margin-top:19px; margin-bottom:3px; font-family : Arial, Helvetica, sans-serif; font-style:normal; font-weight:bold; font-size:13px; font-color:#333333; color:#333333; text-decoration:none;}
+p.absatz { font-family : Arial, Helvetica, sans-serif; font-size:13px; font-style:normal; font-weight:normal; font-color:#333333; color:#333333;  text-decoration:none;}
+li.abstand10 {margin-bottom:10px;}
+a.link {text-decoration:underline; font-size:13px; font-weight:normal; color:#333399;}
+
+
+
+/* Hompage */
+.homemenu {font-style:normal; font-weight:bold; font-size:11px; font-family:"Arial", "Verdana", "Helvetica"; color:#ffffff; text-decoration:none;text-align:center; padding:2px;}
+.homecell {padding:2px;}
+.homenews {color:#CC3300; font-style:normal; font-weight:normal; font-size:11px; font-family:"Arial", "Verdana", "Helvetica"; text-decoration:none;}
+
+/* Menu Top */
+.menutop_l {margin-left:8px; font-style:normal; font-weight:normal; font-size:13px; font-family:"Arial", "Verdana", "Helvetica"; color:#333333; text-decoration:none;}
+.menutop_r {margin-right:6px; font-style:normal; font-weight:normal; font-size:13px; font-family:"Arial", "Verdana", "Helvetica"; color:#ffffff; text-decoration:none;}
+
+/* Menu Fuss */
+.menubottom_r {margin-right:6px; padding:2px; font-style:normal; font-weight:normal; font-size:13px; font-family:"Arial", "Verdana", "Helvetica"; color:#333333;text-decoration:none;}
+
+.linkbold {text-decoration:underline; font-size:13px; font-weight:bold; color:#333399;}
+.deptitle {font-family: Arial, Helvetica, sans-serif; font-size:18px; color:#FFFFFF; font-style:normal; font-variant:normal; font-weight:bold; text-decoration:none;}
+.title {font-family: Arial, Helvetica, sans-serif; font-size: 18px; color: #000099; font-weight: normal; text-decoration: none}
+.titlegray {font-family: Arial, Helvetica, sans-serif; font-size:18px; font-color:#333333; font-weight:normal; text-decoration: none}
+
+.titlebox {text-decoration:none; text-align:left; vertical-align:middle; background-color: #E6E6E6;}
+.titlebox2 {border:solid 1px #cccccc; text-decoration:none; text-align:left; vertical-align:middle;}
+.dat {margin-right:2px; text-align:right;}
+.month {text-align:left; font-weight:bold;}
+
+table {margin:0px; border:0px; padding:0px;}
+td, tr {font-family: Arial, Helvetica, sans-serif; 	font-size:13px; color:#333333; 	vertical-align:top; }
+td.rahmen { border-style:solid; border-width:thin;  border-color: #333333;}
+
+.selected {color:#CC3300; font-weight:bold; text-decoration:none;}
+.bottom {vertical-align: bottom;}
+.small {font-size:11px;}
+.abstand10 {margin-bottom:10px;}
+
+/* Menu_Links Formatierungen */
+.nav1 {font-size:13px; font-weight:bold; color:#333399; text-decoration:none;}
+.nav2 {font-size:13px; font-weight:normal; text-decoration:none; color:#333399;}
+.nav3 {text-decoration:none; font-size:13px; font-weight:normal; color:#333399;}
+.nav4 {font-size:13px; text-decoration:none; font-weight:normal; color:#333399;}
+
+/* Glossar */
+.glossar {font-size:11px; text-decoration:none; font-weight:normal; color:#666666}
+a.linkglossar {text-decoration:underline; font-size:11px; font-weight:normal; color:#333399;}
+
+/* Alternativen */
+/* title */
+h1 {font-family: Arial, Helvetica, sans-serif; font-size: 18px; font-color: #333333; color:#333333;  font-weight: normal; text-decoration: none}
+/* untertitel */
+h2, h3, h4, h5, h6 { margin-top:6px; margin-bottom:3px; font-family : Arial, Helvetica, sans-serif; font-style:normal; font-weight:bold; font-size:13px; font-color:#333333; color:#333333;  text-decoration:none;}
+/* fliesstext */
+p, li { font-family : Arial, Helvetica, sans-serif; font-size:13px; font-style:normal; font-weight:normal; font-color:#333333;  color:#333333; text-decoration:none;}
+/* a.link */
+a 	 {text-decoration:underline; font-size:13px; font-weight:normal; color:#333399;}
+
+/* Impressum */
+.greytext_small {  font-family: Arial, Helvetica, sans-serif; font-size: 9px; color: #666666; text-decoration: none}
+
+
+/* bx-Listen Test */
+
+table.bxlist_title {width : 100%;}
+table.bxlist_title  td {padding : 2px; }
+
+
+table.bxlist {	border : 1px solid #CCCCCC;  width : 100%;}
+table.bxlist  td {	border-right: 1px solid #CCCCCC; padding : 2px; }
+
+
+/* KW Manager */
+.greytext {  font-family: Arial, Helvetica, sans-serif; font-size: 12px; color: #666666; text-decoration: none}
+.deptnav {  font-family: Arial, Helvetica, sans-serif; font-size: 12px; color: #000000; font-weight: normal; text-decoration: none;text-align:left}
+
+/* Liste Bigband */
+.listcell { padding:2px; padding-left:5px; border: #CCCCCC solid 1px; }
+
+.rowhead { background-color:#D7D7D7; height:10px; vertical-align:middle; }
+.roweven { background-color:#E6E6E6; height:10px; vertical-align:middle; }
+.rowodd { background-color:#EFEFEF; height:10px; vertical-align:middle; }
+
+/*
+     FILE ARCHIVED ON 19:00:00 Dec 23, 2003 AND RETRIEVED FROM THE
+     INTERNET ARCHIVE ON 17:08:33 Sep 09, 2022.
+     JAVASCRIPT APPENDED BY WAYBACK MACHINE, COPYRIGHT INTERNET ARCHIVE.
+
+     ALL OTHER CONTENT MAY ALSO BE PROTECTED BY COPYRIGHT (17 U.S.C.
+     SECTION 108(a)(3)).
+*/
+/*
+playback timings (ms):
+  captures_list: 126.935
+  exclusion.robots: 0.195
+  exclusion.robots.policy: 0.177
+  RedisCDXSource: 32.985
+  esindex: 0.015
+  LoadShardBlock: 70.854 (3)
+  PetaboxLoader3.datanode: 98.776 (4)
+  CDXLines.iter: 17.839 (3)
+  load_resource: 140.294
+  PetaboxLoader3.resolve: 70.363
+*/
