@@ -26,7 +26,7 @@
      showgrid="false"
      inkscape:zoom="0.76167929"
      inkscape:cx="384.67634"
-     inkscape:cy="536.9714"
+     inkscape:cy="431.94032"
      inkscape:window-width="1920"
      inkscape:window-height="1009"
      inkscape:window-x="1912"
@@ -64,26 +64,29 @@
        width="168.12631"
        height="93.094734"
        x="28.484211"
-       y="76.421051" />
+       y="76.421051"
+       inkscape:export-filename="..\..\Users\marc\rect265.png"
+       inkscape:export-xdpi="298.60168"
+       inkscape:export-ydpi="298.60168" />
     <text
        xml:space="preserve"
        transform="matrix(0.15117013,0,0,0.15117013,21.204391,54.890339)"
        id="text267"
-       style="font-size:40px;white-space:pre;shape-inside:url(#rect269-4);fill:#008000;stroke-width:7.55906;stroke-linecap:round"
+       style="font-size:40px;white-space:pre;shape-inside:url(#rect269-4);display:inline;fill:#008000;stroke-width:7.55906;stroke-linecap:round"
        x="229.55994"
        y="0"><tspan
          x="398.25317"
          y="237.2661"
-         id="tspan898"><tspan
+         id="tspan950"><tspan
            style="text-align:center;text-anchor:middle"
-           id="tspan894">FRAGE für </tspan><tspan
+           id="tspan946">FRAGE für </tspan><tspan
            style="font-weight:bold"
-           id="tspan896">BESTEN der </tspan></tspan><tspan
+           id="tspan948">BESTEN der </tspan></tspan><tspan
          x="368.51315"
          y="287.2661"
-         id="tspan902"><tspan
+         id="tspan954"><tspan
            style="font-weight:bold;text-align:center;text-anchor:middle"
-           id="tspan900">BESTEN der BESTEN, SIR!</tspan></tspan></text>
+           id="tspan952">BESTEN der BESTEN, SIR!</tspan></tspan></text>
     <text
        xml:space="preserve"
        style="font-size:10.5833px;line-height:0.8;text-align:center;text-anchor:middle;fill:#ffff00;stroke-width:2;stroke-linecap:round"
@@ -109,36 +112,36 @@
        xml:space="preserve"
        transform="matrix(0.26458333,0,0,0.26458333,-4.9846941,-10.304167)"
        id="text645"
-       style="font-size:20px;line-height:1;text-align:center;white-space:pre;shape-inside:url(#rect647);fill:#ff0000;stroke-width:7.55906;stroke-linecap:round"><tspan
+       style="font-size:20px;line-height:1;text-align:center;white-space:pre;shape-inside:url(#rect647);display:inline;fill:#ff0000;stroke-width:7.55906;stroke-linecap:round"><tspan
          x="327.00435"
          y="546.10375"
-         id="tspan906"><tspan
+         id="tspan958"><tspan
            style="fill:#000000"
-           id="tspan904">Random Computer-Game
+           id="tspan956">Random Computer-Game
 </tspan></tspan><tspan
          x="390.37435"
          y="566.10375"
-         id="tspan910"><tspan
+         id="tspan962"><tspan
    style="fill:#000000"
-   id="tspan908">mit Räumen</tspan>
+   id="tspan960">mit Räumen</tspan>
 </tspan><tspan
          x="434.34433"
          y="586.10375"
-         id="tspan914"><tspan
+         id="tspan966"><tspan
    style="font-weight:bold"
-   id="tspan912">ZU</tspan>
+   id="tspan964">ZU</tspan>
 </tspan><tspan
          x="341.48437"
          y="606.10375"
-         id="tspan918"><tspan
+         id="tspan970"><tspan
            style="fill:#4d4d4d"
-           id="tspan916">Telegram Gruppen mit
+           id="tspan968">Telegram Gruppen mit
 </tspan></tspan><tspan
          x="342.03439"
          y="626.10375"
-         id="tspan922"><tspan
+         id="tspan974"><tspan
            style="fill:#4d4d4d"
-           id="tspan920">mindestens einem Bot</tspan></tspan></text>
+           id="tspan972">mindestens einem Bot</tspan></tspan></text>
     <rect
        style="fill:none;stroke-width:1.83342;stroke-linecap:round;stroke:#000000"
        id="rect868"
