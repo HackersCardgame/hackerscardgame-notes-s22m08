@@ -1,0 +1,157 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="210mm"
+   height="297mm"
+   viewBox="0 0 210 297"
+   version="1.1"
+   id="svg5"
+   inkscape:version="1.2.1 (9c6d41e410, 2022-07-14)"
+   sodipodi:docname="projektionsmatrix.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview7"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="mm"
+     showgrid="false"
+     inkscape:zoom="0.76167929"
+     inkscape:cx="384.67634"
+     inkscape:cy="536.9714"
+     inkscape:window-width="1920"
+     inkscape:window-height="1009"
+     inkscape:window-x="1912"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1" />
+  <defs
+     id="defs2">
+    <rect
+       x="258.63904"
+       y="530.40696"
+       width="378.1119"
+       height="122.09863"
+       id="rect647" />
+    <rect
+       x="333.47368"
+       y="200.87194"
+       width="554.03896"
+       height="103.71819"
+       id="rect269" />
+    <rect
+       x="333.47369"
+       y="200.87193"
+       width="554.03894"
+       height="103.71819"
+       id="rect269-4" />
+  </defs>
+  <g
+     inkscape:label="Ebene 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <rect
+       style="fill:#ffff00;stroke-width:2;stroke-linecap:round"
+       id="rect265"
+       width="168.12631"
+       height="93.094734"
+       x="28.484211"
+       y="76.421051" />
+    <text
+       xml:space="preserve"
+       transform="matrix(0.15117013,0,0,0.15117013,21.204391,54.890339)"
+       id="text267"
+       style="font-size:40px;white-space:pre;shape-inside:url(#rect269-4);fill:#008000;stroke-width:7.55906;stroke-linecap:round"
+       x="229.55994"
+       y="0"><tspan
+         x="398.25317"
+         y="237.2661"
+         id="tspan898"><tspan
+           style="text-align:center;text-anchor:middle"
+           id="tspan894">FRAGE für </tspan><tspan
+           style="font-weight:bold"
+           id="tspan896">BESTEN der </tspan></tspan><tspan
+         x="368.51315"
+         y="287.2661"
+         id="tspan902"><tspan
+           style="font-weight:bold;text-align:center;text-anchor:middle"
+           id="tspan900">BESTEN der BESTEN, SIR!</tspan></tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:10.5833px;line-height:0.8;text-align:center;text-anchor:middle;fill:#ffff00;stroke-width:2;stroke-linecap:round"
+       x="113.13968"
+       y="113.91068"
+       id="text585"><tspan
+         sodipodi:role="line"
+         id="tspan583"
+         style="font-weight:bold;fill:#ff0000;stroke-width:2"
+         x="113.13968"
+         y="113.91068">INTERFACE /</tspan><tspan
+         sodipodi:role="line"
+         style="font-weight:bold;fill:#ff0000;stroke-width:2"
+         x="113.13968"
+         y="122.37731"
+         id="tspan587">ProjektionsMatrix</tspan><tspan
+         sodipodi:role="line"
+         style="font-weight:bold;font-size:5.29167px;fill:#ff0000;stroke-width:2"
+         x="113.13968"
+         y="130.84396"
+         id="tspan641" /></text>
+    <text
+       xml:space="preserve"
+       transform="matrix(0.26458333,0,0,0.26458333,-4.9846941,-10.304167)"
+       id="text645"
+       style="font-size:20px;line-height:1;text-align:center;white-space:pre;shape-inside:url(#rect647);fill:#ff0000;stroke-width:7.55906;stroke-linecap:round"><tspan
+         x="327.00435"
+         y="546.10375"
+         id="tspan906"><tspan
+           style="fill:#000000"
+           id="tspan904">Random Computer-Game
+</tspan></tspan><tspan
+         x="390.37435"
+         y="566.10375"
+         id="tspan910"><tspan
+   style="fill:#000000"
+   id="tspan908">mit Räumen</tspan>
+</tspan><tspan
+         x="434.34433"
+         y="586.10375"
+         id="tspan914"><tspan
+   style="font-weight:bold"
+   id="tspan912">ZU</tspan>
+</tspan><tspan
+         x="341.48437"
+         y="606.10375"
+         id="tspan918"><tspan
+           style="fill:#4d4d4d"
+           id="tspan916">Telegram Gruppen mit
+</tspan></tspan><tspan
+         x="342.03439"
+         y="626.10375"
+         id="tspan922"><tspan
+           style="fill:#4d4d4d"
+           id="tspan920">mindestens einem Bot</tspan></tspan></text>
+    <rect
+       style="fill:none;stroke-width:1.83342;stroke-linecap:round;stroke:#000000"
+       id="rect868"
+       width="159.09473"
+       height="82.673683"
+       x="33"
+       y="81.631577" />
+    <rect
+       style="fill:none;stroke-width:2;stroke-linecap:round;stroke:#000000"
+       id="rect870"
+       width="168.12631"
+       height="93.094734"
+       x="28.484211"
+       y="76.421051" />
+  </g>
+</svg>
